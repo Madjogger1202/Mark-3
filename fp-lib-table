@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "XB4908A")(type "KiCad")(uri "${KIPRJMOD}/Library/XB4908A.pretty")(options "")(descr ""))
+  (lib (name "TPS61088RHLR")(type "KiCad")(uri "${KIPRJMOD}/Library/TPS61088RHLR.pretty")(options "")(descr ""))
+)
