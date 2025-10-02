@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "XB4908A")(type "KiCad")(uri "${KIPRJMOD}/Library/XB4908A.pretty")(options "")(descr ""))
   (lib (name "TPS61088RHLR")(type "KiCad")(uri "${KIPRJMOD}/Library/TPS61088RHLR.pretty")(options "")(descr ""))
+  (lib (name "HUSB237-AA001-DN06R")(type "KiCad")(uri "${KIPRJMOD}/Library/HUSB237-AA001-DN06R.pretty")(options "")(descr ""))
+  (lib (name "FS8205A")(type "KiCad")(uri "${KIPRJMOD}/Library/FS8205A.pretty")(options "")(descr ""))
 )
