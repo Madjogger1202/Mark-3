@@ -4,4 +4,8 @@
   (lib (name "TPS61088RHLR")(type "KiCad")(uri "${KIPRJMOD}/Library/TPS61088RHLR.kicad_sym")(options "")(descr ""))
   (lib (name "HUSB237-AA001-DN06R")(type "KiCad")(uri "${KIPRJMOD}/Library/HUSB237-AA001-DN06R.kicad_sym")(options "")(descr ""))
   (lib (name "FS8205A")(type "KiCad")(uri "${KIPRJMOD}/Library/FS8205A.kicad_sym")(options "")(descr ""))
+  (lib (name "W25Q16JVUXIQ_TR")(type "KiCad")(uri "${KIPRJMOD}/Library/W25Q16JVUXIQ_TR.kicad_sym")(options "")(descr ""))
+  (lib (name "RFX2401C")(type "KiCad")(uri "${KIPRJMOD}/Library/RFX2401C.kicad_sym")(options "")(descr ""))
+  (lib (name "BCT2057ELTAJ")(type "KiCad")(uri "${KIPRJMOD}/Library/BCT2057ELTAJ.kicad_sym")(options "")(descr ""))
+  (lib (name "RP2350B")(type "KiCad")(uri "${KIPRJMOD}/Library/RP2350B.kicad_sym")(options "")(descr ""))
 )
